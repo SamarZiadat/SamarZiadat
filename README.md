@@ -3,11 +3,7 @@
 
 <h3 align="center">I'm a Software Developer based in Glasgow, Scotland. </h3> 
 
-<p align="center"> <a target="_blank" href="https://www.linkedin.com/in/samarziadat/"><img src="https://img.shields.io/badge/samarziadat-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="samarziadat" /></a> </p>
-
-https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-
-![LinkedIn](https://img.shields.io/badge/samarziadat-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+<p align="center"> <a href="https://www.linkedin.com/in/samarziadat/" target="_blank"><img src="https://img.shields.io/badge/samarziadat-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="samarziadat" /></a> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samarziadat" alt="samarziadat" /></a> </p>
 
